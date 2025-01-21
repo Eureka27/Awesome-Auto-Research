@@ -4,4 +4,3 @@
 - [Agent Laboratory: Using LLM Agents as Research Assistants](https://arxiv.org/abs/2501.04227) (2025.01)
 - [The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery](https://papers.cool/arxiv/2408.06292) (2024.08)
 - [ResearchAgent: Iterative Research Idea Generation over Scientific Literature with Large Language Models](https://arxiv.org/abs/2404.07738) (2024.04)
-- [AgentLite: A Lightweight Library for Building and Advancing Task-Oriented LLM Agent System](https://arxiv.org/abs/2402.15538) (2024.02)
