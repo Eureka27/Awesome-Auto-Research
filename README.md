@@ -25,7 +25,7 @@
 - [SciMON: Scientific Inspiration Machines Optimized for Novelty](https://arxiv.org/abs/2305.14259) (2023.05)
 
 ## Open Source List
-- [open-Deep-Research]
+### open-Deep-Research
 - [https://github.com/huggingface/smolagents/tree/gaia-submission-r1/examples/open_deep_research](https://github.com/huggingface/smolagents/tree/gaia-submission-r1/examples/open_deep_research)
 - [https://github.com/jina-ai/node-DeepResearch](https://github.com/jina-ai/node-DeepResearch)
 - [https://github.com/mshumer/OpenDeepResearcher](https://github.com/mshumer/OpenDeepResearcher)
