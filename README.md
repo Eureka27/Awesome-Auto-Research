@@ -33,3 +33,5 @@
 - [https://github.com/btahir/open-deep-research](https://github.com/btahir/open-deep-research)
 - [https://github.com/dzhng/deep-research](https://github.com/dzhng/deep-research)
 - [https://github.com/HarshJ23/Deeper-Seeker](https://github.com/HarshJ23/Deeper-Seeker)
+### Auto-Deep-Research
+- [https://github.com/HKUDS/Auto-Deep-Research](https://github.com/HKUDS/Auto-Deep-Research)
