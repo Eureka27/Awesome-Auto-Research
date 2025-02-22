@@ -2,6 +2,7 @@
 ## Paperlist
 - [Transforming Science with Large Language Models: A Survey on AI-assisted Scientific Discovery, Experimentation, Content Generation, and Evaluation](https://arxiv.org/abs/2502.05151) (2025.02)
 - [Harnessing Large Language Models to Collect and Analyze Metal–Organic Framework Property Data Set](https://pubs.acs.org/doi/abs/10.1021/jacs.4c11085) (2025.01)
+- [Toward Automated Simulation Research Workflow through LLM Prompt Engineering Design](https://pubs.acs.org/doi/abs/10.1021/acs.jcim.4c01653#) (2025.01)
 - [Large language models for automated scholarly paper review: A survey](https://arxiv.org/abs/2501.10326) (2025.01)
 - [PaSa: An LLM Agent for Comprehensive Academic Paper Search](https://arxiv.org/abs/2501.10120) (2025.01)
 - [LatteReview: A Multi-Agent Framework for Systematic Review Automation Using LargeLanguage Models](https://arxiv.org/abs/2501.05468) (2025.01)
@@ -14,6 +15,7 @@
 - [HiReview: Hierarchical Taxonomy-Driven Automatic Literature Review Generation](https://arxiv.org/abs/2410.03761) (2024.10)
 - [Scideator: Human-LLM Scientific Idea Generation Grounded in Research-Paper Facet Recombination](https://arxiv.org/abs/2409.14634) (2024.09)
 - [LongCite: Enabling LLMs to Generate Fine-grained Citations in Long-context QA](https://arxiv.org/abs/2409.02897) (2024.09)
+- [MLR-Copilot: Autonomous Machine Learning Research based on Large Language Models Agents](https://arxiv.org/pdf/2408.14033) (2024.08)
 - [The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery](https://papers.cool/arxiv/2408.06292) (2024.08)
 - [SciDaSynth: Interactive Structured Knowledge Extraction and Synthesis from Scientific Literature with Large Language Model](https://arxiv.org/abs/2404.13765) (2024.04)
 - [ResearchAgent: Iterative Research Idea Generation over Scientific Literature with Large Language Models](https://arxiv.org/abs/2404.07738) (2024.04)
@@ -33,5 +35,24 @@
 - [https://github.com/btahir/open-deep-research](https://github.com/btahir/open-deep-research)
 - [https://github.com/dzhng/deep-research](https://github.com/dzhng/deep-research)
 - [https://github.com/HarshJ23/Deeper-Seeker](https://github.com/HarshJ23/Deeper-Seeker)
+- [https://github.com/langchain-ai/open_deep_research](https://github.com/langchain-ai/open_deep_research)
+- [https://github.com/assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher)
+- [https://github.com/zaidmukaddam/scira](https://github.com/zaidmukaddam/scira)
 ### Auto-Deep-Research
 - [https://github.com/HKUDS/Auto-Deep-Research](https://github.com/HKUDS/Auto-Deep-Research)
+### AutoResearcher
+- [https://github.com/eimenhmdt/autoresearcher](https://github.com/eimenhmdt/autoresearcher)
+### ChatPaper
+- [https://chatpaper.org/](https://chatpaper.org/)
+- [https://github.com/kaixindelele/ChatPaper](https://github.com/kaixindelele/ChatPaper)
+### ChatGenTitle
+- [https://github.com/WangRongsheng/ChatGenTitle](https://github.com/WangRongsheng/ChatGenTitle)
+### ChatReviewer
+- [https://huggingface.co/spaces/ShiwenNi/ChatReviewer](https://huggingface.co/spaces/ShiwenNi/ChatReviewer)
+- [https://github.com/nishiwen1214/ChatReviewer](https://github.com/nishiwen1214/ChatReviewer)
+### ChatResponse
+- [https://huggingface.co/spaces/ShiwenNi/ChatResponse](https://huggingface.co/spaces/ShiwenNi/ChatResponse)
+- [https://github.com/nishiwen1214/ChatReviewer](https://github.com/nishiwen1214/ChatReviewer)
+### ChatImprovement
+- [https://huggingface.co/spaces/wangrongsheng/ChatImprovement](https://huggingface.co/spaces/wangrongsheng/ChatImprovement)
+- [https://github.com/binary-husky/chatgpt_academic](https://github.com/binary-husky/chatgpt_academic)
