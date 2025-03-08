@@ -1,5 +1,14 @@
 # Awesome-Auto-Research
 ## Paperlist
+- [Towards an AI co-scientist](https://arxiv.org/abs/2502.18864) (2025.02)
+- [Seeing the Forest for the Trees: A Large Scale, Continuously Updating Meta-Analysis of Frontier LLMs](https://arxiv.org/abs/2502.18791) (2025.02)
+- [Disrupt Your Research Using Generative AI Powered ScienceSage](https://arxiv.org/abs/2502.18479) (2025.02)
+- [LAG: LLM agents for Leaderboard Auto Generation on Demanding](https://arxiv.org/abs/2502.18209) (2025.02)
+- [Automatically Evaluating the Paper Reviewing Capability of Large Language Models](https://arxiv.org/abs/2502.17086) (2025.02)
+- [Curie: Toward Rigorous and Automated Scientific Experimentation with AI Agents](https://arxiv.org/abs/2502.18209) (2025.02)
+- [Towards Fully-Automated Materials Discovery via Large-Scale Synthesis Dataset and Expert-Level LLM-as-a-Judge](https://arxiv.org/abs/2502.16457) (2025.02)
+- [On the Effectiveness of Large Language Models in Automating Categorization of Scientific Texts](https://arxiv.org/abs/2502.15745) (2025.02)
+- [Superintelligent Agents Pose Catastrophic Risks: Can Scientist AI Offer a Safer Path?](https://arxiv.org/abs/2502.15657) (2025.02)
 - [Transforming Science with Large Language Models: A Survey on AI-assisted Scientific Discovery, Experimentation, Content Generation, and Evaluation](https://arxiv.org/abs/2502.05151) (2025.02)
 - [Harnessing Large Language Models to Collect and Analyze Metal–Organic Framework Property Data Set](https://pubs.acs.org/doi/abs/10.1021/jacs.4c11085) (2025.01)
 - [Toward Automated Simulation Research Workflow through LLM Prompt Engineering Design](https://pubs.acs.org/doi/abs/10.1021/acs.jcim.4c01653#) (2025.01)
@@ -14,12 +23,14 @@
 - [IdeaSynth: Iterative Research Idea Development Through Evolving and Composing Idea Facets with Literature-Grounded Feedback](https://arxiv.org/abs/2410.04025) (2024.10)
 - [HiReview: Hierarchical Taxonomy-Driven Automatic Literature Review Generation](https://arxiv.org/abs/2410.03761) (2024.10)
 - [Scideator: Human-LLM Scientific Idea Generation Grounded in Research-Paper Facet Recombination](https://arxiv.org/abs/2409.14634) (2024.09)
+- [SciAgents: Automating scientific discovery through multi-agent intelligent graph reasoning](https://arxiv.org/pdf/2409.05556) (2024.09)
 - [LongCite: Enabling LLMs to Generate Fine-grained Citations in Long-context QA](https://arxiv.org/abs/2409.02897) (2024.09)
 - [MLR-Copilot: Autonomous Machine Learning Research based on Large Language Models Agents](https://arxiv.org/pdf/2408.14033) (2024.08)
 - [The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery](https://papers.cool/arxiv/2408.06292) (2024.08)
 - [SciDaSynth: Interactive Structured Knowledge Extraction and Synthesis from Scientific Literature with Large Language Model](https://arxiv.org/abs/2404.13765) (2024.04)
 - [ResearchAgent: Iterative Research Idea Generation over Scientific Literature with Large Language Models](https://arxiv.org/abs/2404.07738) (2024.04)
 - [Hypothesis Generation with Large Language Models](https://arxiv.org/abs/2404.04326) (2024.04)
+- [DS-Agent: Automated Data Science by Empowering Large Language Models with Case-Based Reasoning](https://arxiv.org/abs/2402.17453) (2024.02)
 - [LLMs as Meta-Reviewers' Assistants: A Case Study](https://arxiv.org/abs/2402.15589) (2024.02)
 - [MARG: Multi-Agent Review Generation for Scientific Papers](https://arxiv.org/abs/2401.04259) (2024.01)
 - [The Open Review-Based (ORB) dataset: Towards Automatic Assessment of Scientific Papers and Experiment Proposals in High-Energy Physics](https://arxiv.org/abs/2312.04576) (2023.12)
@@ -56,3 +67,13 @@
 ### ChatImprovement
 - [https://huggingface.co/spaces/wangrongsheng/ChatImprovement](https://huggingface.co/spaces/wangrongsheng/ChatImprovement)
 - [https://github.com/binary-husky/chatgpt_academic](https://github.com/binary-husky/chatgpt_academic)
+### Storm
+- [https://github.com/stanford-oval/storm](https://github.com/stanford-oval/storm)
+### Co-Storm
+- [https://storm.genie.stanford.edu/](https://storm.genie.stanford.edu/)
+### GPT Researcher
+- [https://github.com/assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher)
+### RD-Agent
+- [https://github.com/microsoft/rd-agent](https://github.com/microsoft/rd-agent)
+### Col-Agent
+- [https://huggingface.co/spaces/DAMO-NLP-SG/CoI_Agent](https://huggingface.co/spaces/DAMO-NLP-SG/CoI_Agent)
