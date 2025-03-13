@@ -1,5 +1,9 @@
 # Awesome-Auto-Research
 ## Paperlist
+
+- [DeepReview: Improving LLM-based Paper Review with Human-like Deep Thinking](https://arxiv.org/abs/2503.08569) (2025.03)
+- [DatawiseAgent: A Notebook-Centric LLM Agent Framework for Automated Data](https://arxiv.org/abs/2503.07044) (2025.03)
+- [AutoMisty: A Multi-Agent LLM Framework for Automated Code Generation in the Misty Social Robot](https://arxiv.org/abs/2503.06791) (2025.03)
 - [Towards an AI co-scientist](https://arxiv.org/abs/2502.18864) (2025.02)
 - [Seeing the Forest for the Trees: A Large Scale, Continuously Updating Meta-Analysis of Frontier LLMs](https://arxiv.org/abs/2502.18791) (2025.02)
 - [Disrupt Your Research Using Generative AI Powered ScienceSage](https://arxiv.org/abs/2502.18479) (2025.02)
@@ -7,8 +11,10 @@
 - [Automatically Evaluating the Paper Reviewing Capability of Large Language Models](https://arxiv.org/abs/2502.17086) (2025.02)
 - [Curie: Toward Rigorous and Automated Scientific Experimentation with AI Agents](https://arxiv.org/abs/2502.18209) (2025.02)
 - [Towards Fully-Automated Materials Discovery via Large-Scale Synthesis Dataset and Expert-Level LLM-as-a-Judge](https://arxiv.org/abs/2502.16457) (2025.02)
+- [Curie: Toward Rigorous and Automated Scientific Experimentation with AI Agents](https://arxiv.org/abs/2502.16069) (2025.02)
 - [On the Effectiveness of Large Language Models in Automating Categorization of Scientific Texts](https://arxiv.org/abs/2502.15745) (2025.02)
 - [Superintelligent Agents Pose Catastrophic Risks: Can Scientist AI Offer a Safer Path?](https://arxiv.org/abs/2502.15657) (2025.02)
+- [SurveyX: Academic Survey Automation via Large Language Models](https://arxiv.org/abs/2502.14776) (2025.02)
 - [Transforming Science with Large Language Models: A Survey on AI-assisted Scientific Discovery, Experimentation, Content Generation, and Evaluation](https://arxiv.org/abs/2502.05151) (2025.02)
 - [Harnessing Large Language Models to Collect and Analyze Metal–Organic Framework Property Data Set](https://pubs.acs.org/doi/abs/10.1021/jacs.4c11085) (2025.01)
 - [Toward Automated Simulation Research Workflow through LLM Prompt Engineering Design](https://pubs.acs.org/doi/abs/10.1021/acs.jcim.4c01653#) (2025.01)
