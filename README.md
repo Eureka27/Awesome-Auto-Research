@@ -1,7 +1,8 @@
 # Awesome-Auto-Research
 ## Paperlist
-
+- [Agentic AI for Scientific Discovery: A Survey of Progress, Challenges, and Future Directions](https://arxiv.org/abs/2503.08979) (2025.03)
 - [DeepReview: Improving LLM-based Paper Review with Human-like Deep Thinking](https://arxiv.org/abs/2503.08569) (2025.03)
+- [ReviewAgents: Bridging the Gap Between Human and AI-Generated Paper Reviews](https://arxiv.org/abs/2503.08506) (2025.03)
 - [DatawiseAgent: A Notebook-Centric LLM Agent Framework for Automated Data](https://arxiv.org/abs/2503.07044) (2025.03)
 - [AutoMisty: A Multi-Agent LLM Framework for Automated Code Generation in the Misty Social Robot](https://arxiv.org/abs/2503.06791) (2025.03)
 - [Towards an AI co-scientist](https://arxiv.org/abs/2502.18864) (2025.02)
