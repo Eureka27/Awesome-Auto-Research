@@ -36,6 +36,7 @@
 - [Agent Laboratory: Using LLM Agents as Research Assistants](https://arxiv.org/abs/2501.04227) (2025.01)
 - [Dolphin: Closed-loop Open-ended Auto-research through Thinking, Practice, and Feedback](https://arxiv.org/abs/2501.03916) (2025.01)
 - [Improving Scientific Hypothesis Generation with Knowledge Grounded Large Language Models](https://arxiv.org/abs/2411.02382) (2024.11)
+- [CYCLERESEARCHER: IMPROVING AUTOMATED RE-SEARCH VIA AUTOMATED REVIEW](https://arxiv.org/abs/2411.00816) (2024.11)
 - [Chain of Ideas: Revolutionizing Research Via Novel Idea Development with LLM Agents](https://arxiv.org/abs/2410.13185) (2024.10)
 - [MOOSE-Chem: Large Language Models for Rediscovering Unseen Chemistry Scientific Hypotheses](https://arxiv.org/abs/2410.07076) (2024.10)
 - [IdeaSynth: Iterative Research Idea Development Through Evolving and Composing Idea Facets with Literature-Grounded Feedback](https://arxiv.org/abs/2410.04025) (2024.10)
@@ -95,3 +96,5 @@
 - [https://github.com/microsoft/rd-agent](https://github.com/microsoft/rd-agent)
 ### Col-Agent
 - [https://huggingface.co/spaces/DAMO-NLP-SG/CoI_Agent](https://huggingface.co/spaces/DAMO-NLP-SG/CoI_Agent)
+### AI-Researcher
+- [https://github.com/HKUDS/AI-Researcher](https://github.com/HKUDS/AI-Researcher)
