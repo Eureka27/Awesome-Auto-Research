@@ -1,5 +1,16 @@
 # Awesome-Auto-Research
 ## Paperlist
+- [CLAIMCHECK: How Grounded are LLM Critiques of Scientific Papers?](https://arxiv.org/abs/2503.21717) (2025.03)
+- [ResearchBench: Benchmarking LLMs in Scientific Discovery via Inspiration-Based Task Decomposition](https://arxiv.org/abs/2503.21248) (2025.03)
+- [Machine-assisted writing evaluation: Exploring pre-trained language models in analyzing argumentative moves](https://arxiv.org/abs/2503.19279) (2025.03)
+- [SCI-IDEA: Context-Aware Scientific Ideation Using Token and Sentence Embeddings](https://arxiv.org/abs/2503.19257) (2025.03)
+- [AgentRxiv: Towards Collaborative Autonomous Research](https://arxiv.org/abs/2503.18102) (2025.03)
+- [FutureGen: LLM-RAG Approach to Generate the Future Work of Scientific Article](https://arxiv.org/abs/2503.16561) (2025.03)
+- [Detecting LLM-Written Peer Reviews](https://arxiv.org/abs/2503.15772) (2025.03)
+- [Engineering Scientific Assistants using Interactive Structured Induction of Programs](https://arxiv.org/abs/2503.14488) (2025.03)
+- [Bridging Social Psychology and LLM Reasoning: Conflict-Aware Meta-Review Generation via Cognitive Alignment](https://arxiv.org/abs/2503.13879) (2025.03)
+- [Enabling Inclusive Systematic Reviews: Incorporating Preprint Articles with Large Language Model-Driven Evaluations](https://arxiv.org/abs/2503.13857) (2025.03)
+- [Leveraging Vision Capabilities of Multimodal LLMs for Automated Data Extraction from Plots](https://arxiv.org/abs/2503.12326) (2025.03)
 - [Agentic AI for Scientific Discovery: A Survey of Progress, Challenges, and Future Directions](https://arxiv.org/abs/2503.08979) (2025.03)
 - [DeepReview: Improving LLM-based Paper Review with Human-like Deep Thinking](https://arxiv.org/abs/2503.08569) (2025.03)
 - [ReviewAgents: Bridging the Gap Between Human and AI-Generated Paper Reviews](https://arxiv.org/abs/2503.08506) (2025.03)
