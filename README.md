@@ -1,10 +1,19 @@
 # Awesome-Auto-Research
 ## Paperlist
+- [Rank-Then-Score: Enhancing Large Language Models for Automated Essay Scoring](https://arxiv.org/abs/2504.05736) (2025.04)
+- [A Survey on Hypothesis Generation for Scientific Discovery in the Era of Large Language Models](https://arxiv.org/abs/2504.05496) (2025.04)
+- [Hierarchically Encapsulated Representation for Protocol Design in Self-Driving Labs](https://arxiv.org/abs/2504.03810) (2025.04)
+- [The AI Cosmologist I: An Agentic System for Automated Data Analysis](https://arxiv.org/abs/2504.03424) (2025.04)
+- [Towards Scientific Intelligence: A Survey of LLM-based Scientific Agents](https://arxiv.org/abs/2503.24047) (2025.03)
+- [FeRG-LLM : Feature Engineering by Reason Generation Large Language Models](https://arxiv.org/abs/2503.23371) (2025.03)
+- [CodeScientist: End-to-End Semi-Automated Scientific Discovery with Code-based Experimentation](https://arxiv.org/abs/2503.22708) (2025.03)
+- [Scaling Laws in Scientific Discovery with AI and Robot Scientists](https://arxiv.org/abs/2503.22444) (2025.03)
 - [CLAIMCHECK: How Grounded are LLM Critiques of Scientific Papers?](https://arxiv.org/abs/2503.21717) (2025.03)
 - [ResearchBench: Benchmarking LLMs in Scientific Discovery via Inspiration-Based Task Decomposition](https://arxiv.org/abs/2503.21248) (2025.03)
 - [Machine-assisted writing evaluation: Exploring pre-trained language models in analyzing argumentative moves](https://arxiv.org/abs/2503.19279) (2025.03)
 - [SCI-IDEA: Context-Aware Scientific Ideation Using Token and Sentence Embeddings](https://arxiv.org/abs/2503.19257) (2025.03)
 - [AgentRxiv: Towards Collaborative Autonomous Research](https://arxiv.org/abs/2503.18102) (2025.03)
+- [OmniScience: A Domain-Specialized LLM for Scientific Reasoning and Discovery](https://arxiv.org/abs/2503.17604) (2025.03)
 - [FutureGen: LLM-RAG Approach to Generate the Future Work of Scientific Article](https://arxiv.org/abs/2503.16561) (2025.03)
 - [Detecting LLM-Written Peer Reviews](https://arxiv.org/abs/2503.15772) (2025.03)
 - [Engineering Scientific Assistants using Interactive Structured Induction of Programs](https://arxiv.org/abs/2503.14488) (2025.03)
@@ -98,3 +107,5 @@
 - [https://huggingface.co/spaces/DAMO-NLP-SG/CoI_Agent](https://huggingface.co/spaces/DAMO-NLP-SG/CoI_Agent)
 ### AI-Researcher
 - [https://github.com/HKUDS/AI-Researcher](https://github.com/HKUDS/AI-Researcher)
+### CodeScientist
+- [https://github.com/allenai/codescientist](https://github.com/allenai/codescientist)
