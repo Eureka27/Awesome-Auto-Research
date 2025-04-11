@@ -109,3 +109,9 @@
 - [https://github.com/HKUDS/AI-Researcher](https://github.com/HKUDS/AI-Researcher)
 ### CodeScientist
 - [https://github.com/allenai/codescientist](https://github.com/allenai/codescientist)
+### AutoAgent
+- [https://github.com/HKUDS/AutoAgent](https://github.com/HKUDS/AutoAgent)
+### Ollama-Deep-Researcher
+- [https://github.com/langchain-ai/ollama-deep-researcher](https://github.com/langchain-ai/ollama-deep-researcher)
+### AI Scientist-v2
+- [https://github.com/SakanaAI/AI-Scientist-v2]
