@@ -1,7 +1,15 @@
 # Awesome-Auto-Research
 ## Paperlist
+- [A Hierarchical Framework for Measuring Scientific Paper Innovation via Large Language Models](https://arxiv.org/abs/2504.14620) (2025.04)
+- [Science Hierarchography: Hierarchical Organization of Science Literature](https://arxiv.org/abs/2504.13834) (2025.04)
+- [Deep literature reviews: an application of fine-tuned language models to migration research](https://arxiv.org/abs/2504.13685) (2025.04)
+- [Sparks of Science: Hypothesis Generation Using Structured Paper Data](https://arxiv.org/abs/2504.12976) (2025.04)
+- [Scholar Inbox: Personalized Paper Recommendations for Scientists](https://arxiv.org/abs/2504.08385) (2025.04)
+- [The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search](https://arxiv.org/abs/2504.08066) (2025.04)
 - [Rank-Then-Score: Enhancing Large Language Models for Automated Essay Scoring](https://arxiv.org/abs/2504.05736) (2025.04)
+- [SciSciGPT: Advancing Human-AI Collaboration in the Science of Science](https://arxiv.org/abs/2504.05559) (2025.04)
 - [A Survey on Hypothesis Generation for Scientific Discovery in the Era of Large Language Models](https://arxiv.org/abs/2504.05496) (2025.04)
+- [AiReview: An Open Platform for Accelerating Systematic Reviews with LLMs](https://arxiv.org/abs/2504.04193) (2025.04)
 - [Hierarchically Encapsulated Representation for Protocol Design in Self-Driving Labs](https://arxiv.org/abs/2504.03810) (2025.04)
 - [The AI Cosmologist I: An Agentic System for Automated Data Analysis](https://arxiv.org/abs/2504.03424) (2025.04)
 - [ScholarCopilot: Training Large Language Models for Academic Writing with Accurate Citations](https://arxiv.org/abs/2504.00824) (2025.04)
@@ -49,6 +57,7 @@
 - [Improving Scientific Hypothesis Generation with Knowledge Grounded Large Language Models](https://arxiv.org/abs/2411.02382) (2024.11)
 - [CYCLERESEARCHER: IMPROVING AUTOMATED RE-SEARCH VIA AUTOMATED REVIEW](https://arxiv.org/abs/2411.00816) (2024.11)
 - [Chain of Ideas: Revolutionizing Research Via Novel Idea Development with LLM Agents](https://arxiv.org/abs/2410.13185) (2024.10)
+- [LLM×MapReduce: Simplified Long-Sequence Processing using Large Language Models](https://arxiv.org/abs/2410.09342) (2024.10)
 - [MOOSE-Chem: Large Language Models for Rediscovering Unseen Chemistry Scientific Hypotheses](https://arxiv.org/abs/2410.07076) (2024.10)
 - [IdeaSynth: Iterative Research Idea Development Through Evolving and Composing Idea Facets with Literature-Grounded Feedback](https://arxiv.org/abs/2410.04025) (2024.10)
 - [HiReview: Hierarchical Taxonomy-Driven Automatic Literature Review Generation](https://arxiv.org/abs/2410.03761) (2024.10)
@@ -116,4 +125,6 @@
 ### Ollama-Deep-Researcher
 - [https://github.com/langchain-ai/ollama-deep-researcher](https://github.com/langchain-ai/ollama-deep-researcher)
 ### AI Scientist-v2
-- [https://github.com/SakanaAI/AI-Scientist-v2]
+- [https://github.com/SakanaAI/AI-Scientist-v2](https://github.com/SakanaAI/AI-Scientist-v2)
+### Surveygo
+- [https://github.com/thunlp/LLMxMapReduce/tree/main](https://github.com/thunlp/LLMxMapReduce/tree/main)
